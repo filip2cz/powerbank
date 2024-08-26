@@ -1,5 +1,5 @@
 # powerbank
-powerbanka z elfbar baterek
+powerbanka z baterií z jednorazových elektronických cigaret
 
 ## rozměry součástek
 
