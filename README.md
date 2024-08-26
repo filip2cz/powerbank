@@ -4,7 +4,7 @@ powerbanka z baterií z jednorazových elektronických cigaret
 ## rozměry součástek
 
 ### baterka
-12 x lithiová baterka 13400 3.7 V 550mAh
+12 x lithiová baterka 13400 3.7V 550mAh (celkem 6600mAh)
 
 tvar: válec
 
