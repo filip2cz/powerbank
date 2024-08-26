@@ -8,4 +8,9 @@ lithiová baterka 13400 3.7 V 550mAh
 
 tvar: válec
 
-42 mm x 14 mm
+Rozměry: 42x14mm
+
+### napájení
+https://www.laskakit.cz/nabijecka-boost-pro-usb-powerbank-5v/
+
+Rozměry: 22x18x12mm
