@@ -1,5 +1,5 @@
 # powerbank
-powerbanka z baterií z jednorazových elektronických cigaret
+powerbanka z baterií z jednorázových elektronických cigaret
 
 ## rozměry součástek
 
