@@ -19,3 +19,8 @@ rozměry: 22x18x12mm
 https://www.gme.cz/v/1483289/elchemco-medena-paska-sirka-19mm
 
 šířka: 19mm
+
+## detaily
+číslo verze na venkovní straně (např. v1.0)
+
+upozornění na venkovní straně: "Toto je pouze komunitní projekt a autor neručí za žádné škody způsobené jakýmkoliv používáním. Tento objekt nesmí být prodáván."
