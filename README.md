@@ -4,11 +4,11 @@ powerbanka z baterií z jednorázových elektronických cigaret
 ## rozměry součástek
 
 ### baterka
-12 x lithiová baterka 13400 3.7V 550mAh (celkem 6600mAh)
+12 x lithiová baterka 13300 3.7V 360mAh (celkem 4320mAh)
 
 tvar: válec
 
-rozměry: 42x14mm
+rozměry: 32x13mm
 
 ### napájení
 https://www.laskakit.cz/nabijecka-boost-pro-usb-powerbank-5v/
